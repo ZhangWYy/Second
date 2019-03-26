@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Second</string>
+    <string name="str_input">Please input the Celsius temperature</string>
+    <string name="trans">Transfer to Fahrenheit</string>
+    <string name="str_result">The resulr is:</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Second</string>
+    <string name="str_input">请输入摄氏温度</string>
+    <string name="trans">转换为华氏温度</string>
+    <string name="str_result">结果为：</string>
+</resources>
